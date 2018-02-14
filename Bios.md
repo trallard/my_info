@@ -15,6 +15,10 @@ I am also very passionate about teaching and mentoring. I co-organise a number o
 
 I take an interest in policy areas fair representation and inclusion in STEM areas and promoting collaboration and knowledge sharing.
 
+----
+
+#### Speaker
+Tania Allard (https://twitter.com/ixek, https://www.bitsandchips.me) is a Research Software Engineer at the University of SHeffield. Tania works in a number of projects accross disciplines, however, her main focus is complex analysis workfows, scalable data science, and reproducibility and replicability in scientific computation. She is passionate about mentoring, open source, and its community and is involved in a number of initiatives aimed to build more diverse and inclusive communities.
 
 -----
 ### Linkedin
