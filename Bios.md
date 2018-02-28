@@ -1,7 +1,9 @@
 ### 3rd person
 
-Tania is a Research Software Engineer at the University of Sheffield. She works with multiple research groups in Sheffield and within Europe to develop sustainable, reproducible, and robust scientific software. She is an open source nerd and Pythonista. She contributes to a number of open source projects. Apart from her academic duties she enjoys working on community building projects as well as in projects and initiatives aimed to increase the diversity and inclusivity in scientific computing.
+Tania is a Research Software Engineer at the University of Sheffield. She works with multiple research groups within the UK and Europe to develop sustainable, reproducible, and robust scientific software.
+Her main focus is complex analysis workflows, scalable data science, and reproducibility and replicability in scientific computing. She contributes to a number of open source projects and is a very active member of the FOSS and data science community. Apart from her academic duties she enjoys working on community building projects as well as in projects and initiatives aimed to increase the diversity and inclusivity in scientific computing and STEM areas in general.
 
+---
 
 ### SSI Profile
 
@@ -24,3 +26,12 @@ Tania works as a Research Software Engineer at the University of Sheffield. She 
 ### Linkedin
 
 Specialised skills include public speaking, analytics, communication, project management, research design, establishment of data integrity, and experience building a culture of data-driven decision making
+
+
+---
+### Mentoring
+
+#### Technical
+I am happy to provide mentoring regarding project planning, product design, accessibility, data collection, analysis and storage, scientific computing, general programming, and software engineering. Also, I am happy to advise on projects related, but not limited to, data science / analytics, web services, data as a service, diagnosis, RESTful APIs, and open source.
+
+Some of the programming languages I can provide help with are: Python, R (including tidyverse), C/C++, FORTRAN, MATLAB, SQL, and Julia.
