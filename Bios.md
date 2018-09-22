@@ -20,8 +20,7 @@ I take an interest in policy areas fair representation and inclusion in STEM are
 ----
 
 #### Speaker
-Tania works as a Research Software Engineer at the University of Leeds, where she acts as a consultant in data engineering and reproducibility in (data) science. She works with a number of groups across all scientific disciplines to help them make better use of their data. She also consults research groups and SMEs on how to make the most of their data and to build robust data analysis pipelines. Her main focus is complex analysis workflows, scalable data science, and reproducibility and replicability in computationally intensive areas. She is passionate about mentoring, open source, and its community and is involved in a number of initiatives aimed to build more diverse and inclusive communities.
-
+Tania works as a Research Software Engineer at the University of Sheffield. She is involved in a number of projects spanning in machine learning, linguistics, and computational engineering, among others. She also consults research groups and SMEs on how to make the most of their data and to build robust data analysis pipelines. Her main focus is complex analysis workflows, scalable data science, and reproducibility and replicability in scientific computation. She is passionate about mentoring, open source, and its community and is involved in a number of initiatives aimed to build more diverse and inclusive communities.
 
 -----
 ### Linkedin
@@ -36,3 +35,13 @@ Specialised skills include public speaking, analytics, communication, project ma
 I am happy to provide mentoring regarding project planning, product design, accessibility, data collection, analysis and storage, scientific computing, general programming, and software engineering. Also, I am happy to advise on projects related, but not limited to, data science / analytics, web services, data as a service, diagnosis, RESTful APIs, and open source.
 
 Some of the programming languages I can provide help with are: Python, R (including tidyverse), C/C++, FORTRAN, MATLAB, SQL, and Julia.
+
+---
+### JOSS editorial group
+Research Software Engineer and data engineer, contributor and maintainer of a number of open source projects, mentor and community builder. 
+She is particularly interested in reproducibility, sustainability, openness and FAIR principles in research software and data as well as bias an ethics in data science. 
+
+#### Editorial topics
+Biomechanics, Reproducible research, Open Science, Data Engineering 
+
+GH: @trallard
