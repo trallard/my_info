@@ -23,6 +23,11 @@ I take an interest in policy areas fair representation and inclusion in STEM are
 Tania is an experienced data engineer and research engineer with both academic and industrial experience. She is involved in a number of projects spanning in machine learning, linguistics, and computational engineering, among others. She also consults research groups and SMEs on how to make the most of their data and to build robust data analysis pipelines. Her main focus is complex analysis workflows, scalable data science, and reproducibility and replicability in scientific computation. She is passionate about mentoring, open source, and its community and is involved in a number of initiatives aimed to build more diverse and inclusive communities.
 
 
+Tania is a Research Engineer with vast experience in academic research and industrial environments. Her main areas of expertise are within data-intensive applications, scientific computing, and machine learning. One of her main areas of expertise is the improvement of processes, reproducibility and transparency in research, data science and artificial intelligence.  
+Over the last few years she has trained hundreds of people on scientific computing reproducible workflows and ML models testing, monitoring and scaling and delivered talks on the topic worldwide. 
+
+She is passionate about mentoring, open source, and its community and is involved in a number of initiatives aimed to build more diverse and inclusive communities. She is also a contributor, maintainer, and developer of a number of open source projects and the Founder of Pyladies NorthWest UK.
+
 
 -----
 ### Linkedin
