@@ -32,7 +32,7 @@ She is passionate about mentoring, open source, and its community and is involve
 Tania is a Research Engineer and developer advocate at Microsoft with vast experience in academic research and industrial environments. Her main areas of expertise are within data-intensive applications, scientific computing, and machine learning. She is particularly focused on the improvement of processes, reproducibility and transparency in research, data science and artificial intelligence. 
 She is passionate about mentoring, open source, and its community and is involved in a number of initiatives aimed to build more diverse and inclusive communities. She is also a contributor, maintainer, and developer of a number of open source projects and the Founder of Pyladies NorthWest UK.
 
-Tania has vast experience provi`ding both workshops and talks all over the world, from big conferences such as PyCon US to smaller user groups or interest groups. She is interested in both technical talks as well as talks covering community aspects.
+Tania has vast experience providing both workshops and talks all over the world, from big conferences such as PyCon US to smaller user groups or interest groups. She is interested in both technical talks as well as talks covering community aspects.
 
 ### Additional workshop bits 
 Over the last few years, she has trained hundreds of people on scientific computing reproducible workflow, machine learning, and DataOps and delivered talks on the topic worldwide. 
