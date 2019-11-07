@@ -1,6 +1,6 @@
 ### 3rd person
 
-Tania is a Research Software Engineer at the University of Sheffield. She works with multiple research groups within the UK and Europe to develop sustainable, reproducible, and robust scientific software.
+Tania is a Research Software Engineer at heart. She has worked with multiple research groups within the UK, Europe and America to develop sustainable, reproducible, and robust scientific software.
 Her main focus is complex analysis workflows, scalable data science, and reproducibility and replicability in scientific computing. She contributes to a number of open source projects and is a very active member of the FOSS and data science community. Apart from her academic duties she enjoys working on community building projects as well as in projects and initiatives aimed to increase the diversity and inclusivity in scientific computing and STEM areas in general.
 
 ---
@@ -33,6 +33,11 @@ Tania is a Research Engineer and developer advocate at Microsoft with vast exper
 She is passionate about mentoring, open source, and its community and is involved in a number of initiatives aimed to build more diverse and inclusive communities. She is also a contributor, maintainer, and developer of a number of open source projects and the Founder of Pyladies NorthWest UK.
 
 Tania has vast experience providing both workshops and talks all over the world, from big conferences such as PyCon US to smaller user groups or interest groups. She is interested in both technical talks as well as talks covering community aspects.
+
+### speaker -community focused
+Tania is a Developer advocate at Microsoft, where focuses on the open-source, data science, research software, and scientific computing communities. 
+
+She has a track record for getting things done and building inclusive and welcoming technical communities. She is passionate about empowering developers of all backgrounds and experience levels through open source and inclusive tools. She is also an advocate for transparent and ethical machine learning and love all things data. 
 
 ### Additional workshop bits 
 Over the last few years, she has trained hundreds of people on scientific computing reproducible workflow, machine learning, and DataOps and delivered talks on the topic worldwide. 
