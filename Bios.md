@@ -66,3 +66,11 @@ She is particularly interested in reproducibility, sustainability, openness and 
 Biomechanics, Reproducible research, Open Science, Data Engineering 
 
 GH: @trallard
+
+
+--- 
+
+### Quansight
+
+As Co-Director of Quansight Labs, Tania Allard supports, grows, and connects open source communities. She has 10+ year's experience in academic and enterprise contexts focusing on scientific computing, automation and MLOps, full-stack data science, OSS sustainability, and reproducible research. 
+She holds a PhD in computational nanomechanics from the University of Manchester.
